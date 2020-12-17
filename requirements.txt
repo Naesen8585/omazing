@@ -1,0 +1,4 @@
+selenium
+beautifulsoup4
+fake_useragent
+sqlitedict
